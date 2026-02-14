@@ -56,6 +56,17 @@ The JavaScript file is loaded at the bottom of the page so that all HTML element
 - Consistent spacing and rounded corners were applied for a modern appearance.
 - Color variables were used to maintain theme consistency.
 
+## 6. User Experience 
+
+The website was designed with usability and clarity in mind to provide a smooth user experience.
+
+- Clear navigation links allow users to easily move between sections.
+- The responsive layout ensures accessibility across desktop, tablet, and mobile devices.
+- Proper spacing, consistent styling, and rounded elements improve visual clarity.
+- The contact form uses labeled input fields to enhance usability and accessibility.
+- The greeting message adds a personalized and engaging element.
+- The textarea is restricted to vertical resizing to maintain layout consistency while still allowing flexibility for longer messages.
+
 ## Conclusion
 
 This project demonstrates foundational front-end development skills, including semantic HTML structuring, responsive design with Flexbox, and dynamic content manipulation using JavaScript.
