@@ -148,6 +148,8 @@ textarea {
     border: 1px solid var(--text);
     border-radius: 8px; /* Rounded field corners */
     font-family: inherit; /* Uses the same font as the page */
+    resize: vertical; /* Enables vertical resizing only */
+
 }
 
 /* Submit button styling */
