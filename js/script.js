@@ -4,7 +4,7 @@ const greetingElement = document.getElementById("greeting");
 // Gets the current hour (0–23) from the user's system time
 const currentHour = new Date().getHours();
 
-// Variable to store the greeting message
+// Declaring a variable to store the greeting message
 let message;
 
 // Checks the time and assigns the appropriate greeting
